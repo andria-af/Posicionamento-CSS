@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#cinza {
+    background-color: grey;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    
+}
+
+#azul {
+    background-color: blue;
+    height: 95%;
+    width: 50%;
+    position: absolute;
+    top: 2.5%;
+    right: 25%;
+}
+
+#vermelho {
+    background-color: red;
+    height: 75%;
+    width: 75%;
+    position: absolute;
+    top: 12.5%;
+    right: 12.5%;
+}
+
+#preto {
+    background-color: black;
+    height: 75%;
+    width: 75%;
+    position: absolute;
+    top: 12.5%;
+    right: 12.5%;
+}
+
+#verde {
+    background-color: green;
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    top: 25%;
+    right: 25%;
+}
+
+#amarelo {
+    background-color: yellow;
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    top: 25%;
+    right: 25%;
+}
+
+
+    

@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-height: 811px;
+}
+
+#cinza {
+    background-color: grey;
+    width: 811px;
+    height: 811px;
+}
+
+#div1 {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    left: 5%;
+    color: white;
+    text-transform: uppercase;
+    text-align: right;
+    padding: 15px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+
+#div2 {
+    height: 40%;
+    background-color: black;
+    border: 2px solid red;
+    color: white;
+    padding: 15px;
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    left: 5%;
+    overflow-y:scroll;
+}
+
+#paragrafo2 {
+    
+}
